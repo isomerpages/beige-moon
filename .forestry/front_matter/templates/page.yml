@@ -37,3 +37,4 @@ fields:
 pages:
   - src/pages/style-guide.md
   - src/pages//blog/hello/page.md
+  - src/pages//about/our-team.md
