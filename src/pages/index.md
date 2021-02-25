@@ -10,6 +10,22 @@ sections:
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
+  - type: cta_section
+    template: cta_section
+    section_id: cta
+    title: Let’s Work Together!
+    content: >-
+      Say hello at [email@example.com](mailto:email@example.com) or tell us more
+      about your project by getting started below.
+    actions:
+      - type: action
+        template: action
+        label: Let's start
+        url: /contact
+        style: button
+    image: images/cta.svg
+    image_alt: Illustration
+    bg_color: light
   - type: portfolio_section
     template: portfolio_section
     section_id: latest-projects
@@ -90,21 +106,5 @@ sections:
           - Communication design
           - Social media
           - Product design
-  - type: cta_section
-    template: cta_section
-    section_id: cta
-    title: Let’s Work Together!
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
-    actions:
-      - type: action
-        template: action
-        label: Let's start
-        url: /contact
-        style: button
-    image: images/cta.svg
-    image_alt: Illustration
-    bg_color: light
 template: advanced
 ---
